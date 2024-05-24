@@ -2,9 +2,11 @@
 Analysis of the data under Hospitality domain.
 
 **Objective**
+
 To develop a comprehensive weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze operations effectively.
 
 **Observations**
+
 -- RevPar is changing as per the occupancy rate.
 
 -- The ADR throughout the whole period is almost the same even during weekdays and weekends.
